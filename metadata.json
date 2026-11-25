@@ -1,0 +1,6 @@
+{
+  "name": "StockMate",
+  "description": "Smart Indian stock calculator, brokerage & tax analyzer, portfolio tracker, and investment analytics platform for NSE and BSE.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
